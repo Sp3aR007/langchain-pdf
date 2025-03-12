@@ -173,4 +173,4 @@ cython_debug/
 
 # Chromadb files
 
-chroma_db/*
+chroma_db/**
